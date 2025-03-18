@@ -7,14 +7,6 @@ body{
     color: #fff;
 }
 
-.header{
-    top: 0;
-    left: 0;
-    position: fixed;
-    width: 100%; 
-    z-index: 5;  
-}
-
 .title{
     display: block;
     padding: 20px 0;
@@ -26,7 +18,7 @@ body{
 }
 
 .modern-studio--margin{
-    margin: 110px 0 30px;
+    margin: 30px 0;
 }
 
 .modern-studio__container{
@@ -247,7 +239,7 @@ body{
 
 .circle--sticky{
     position: sticky;
-    top: 100px;
+    top: 0;
     left: 10px;
     background-color: #370b9d; 
 }
